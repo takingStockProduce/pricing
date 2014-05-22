@@ -1,9 +1,16 @@
-This is the folder in which you put pricing files.
+Taking Stock Produce Pricing Repository
 
-Excel docs can be dropped in directly.
-Plain text documents can be dropped in directly.
+// RECENT PRICING CHANGES \\
 
-PDFs need to be scraped and converted to plain text.
+...
+
+= CONTENTS =
+
+1. List of Suppliers
+2. File Instructions
+3. 
+
+==
 
 
 === 1. List of Suppliers ===
@@ -20,8 +27,12 @@ Riverdog Farms (RDF)
 Full Belly Farms (FBF)
 Dirty Girl Produce (DGP)
 
-=== 2. ===
+=== 2. File instructions ===
 
-=== 3. ===
+Plain text documents can be dropped in directly.
+
+Spreadsheets & PDFs need to be scraped and converted to plain text.
+
+=== 3.  ===
 
 Authored by Jeffrey Brice
