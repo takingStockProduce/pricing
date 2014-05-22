@@ -23,3 +23,5 @@ Dirty Girl Produce (DGP)
 === 2. ===
 
 === 3. ===
+
+Authored by Jeffrey Brice
