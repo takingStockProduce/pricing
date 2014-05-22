@@ -34,6 +34,9 @@ Plain text documents can be dropped in directly.
 
 Spreadsheets & PDFs need to be scraped and converted to plain text.
 
-=== 3.  ===
+=== 3. Suppliers with Price Sheets on Github ===
+
+
+
 
 Authored by Jeffrey Brice
