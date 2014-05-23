@@ -16,14 +16,14 @@ Taking Stock Produce Pricing Repository
 === 1. List of Suppliers ===
 
 * Heirloom Organic Gardens (HOG)
-* Allstar Organics (ASO)
+* Allstar Organics (ASO) 
 * Marin Roots (MAR)
 * County Line Harvest (CLH)
 * Blue House Farms (BHOF)
-* Happy Quail Farms (HQF)
+* Happy Quail Farms (HQF) 
 * Stanley (STAN)
 * Bay Area Herb and Specialty (BHF)
-* Riverdog Farms (RDF)
+* Riverdog Farms (RDF) 
 * Full Belly Farms (FBF)
 * Dirty Girl Produce (DGP)
 * Coke Farms (COF)
