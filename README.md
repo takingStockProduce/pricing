@@ -34,14 +34,15 @@ Spreadsheets & PDFs need to be scraped and converted to plain text.
 
 ## Suppliers with Price Sheets on Github
 
-      Bay Area Herb and Specialty
-      Blue House Farms
-      County Line Harvest
-      Dirty Girl Produce (Duplicates exist)
-      Full Belly Farms
-      Marin Roots
-      Riverdog Farms
-      Stanley
+- [Bay Area Herb and Specialty](https://github.com/takingStockProduce/pricing/blob/master/bhfPricingSheet)
+- [Blue House Farms](https://github.com/takingStockProduce/pricing/blob/master/bhofPricingSheet)
+- [County Line Harvest](https://github.com/takingStockProduce/pricing/blob/master/clhPricingSheet)
+- [Coke Farms](https://github.com/takingStockProduce/pricing/blob/master/cofPricingSheet)
+- [Dirty Girl Produce](https://github.com/takingStockProduce/pricing/blob/master/dgpPricingSheet)
+- [Full Belly Farms](https://github.com/takingStockProduce/pricing/blob/master/fbfPricingSheet)
+- [Marin Roots](https://github.com/takingStockProduce/pricing/blob/master/marPriceList)
+- [Riverdog Farms](https://github.com/takingStockProduce/pricing/blob/master/rdfPricingSheet)
+- [Stanley](https://github.com/takingStockProduce/pricing/blob/master/stanPricingList)
 
 
 
