@@ -89,6 +89,19 @@ Obsolete entries mean that the item is now not carried by that vendor
     Kale, Motley 24 bu $ 24.00
     Kale, Red Bor 24 bu $ 22.00
 
+### BHOF
+    (Addition) Leeks, Loose - 25# - $40
+    (Addition) Zucchini, mixed - 20# - $30
+    (Addition) Patty Pan Squash, mixed - 20# - $30
+    (Addition) Summer Squash, mixed - 20# - $30
+
+### DGP
+    (Addition) Cilantro, Flower 1bu $3 12bu $24
+    (Addition) Lettuce, Butter, Green and Red 1# $4
+    (Addition) Lettuce, Romaine 10# $35
+    (Addition) Strawberries, Seascape and Albion 1bkt $3.50 3bkts $10 1flat $30
+    Tomatoes, DFEG Canned w/Sea Salt 1Jar $8 12Jars $80
+
 ## --Obsolete Items--
 
 ### -RDF-
@@ -121,11 +134,18 @@ Obsolete entries mean that the item is now not carried by that vendor
   - Sunchokes
   - Radish, Pink
 
+### BHOF
+  - Salad Mix, lettuce
 
+### DGP
+  - Beets, Red
+  - Chicories: Radicchio Varigata, Castel di Franco, Pan di Zucchero, Trevisio, Chiogga
+  - Cabbage, Savoy
+  - Chard, Rainbow and Red
+  - Kale, Red Russian
+  - Puntarelle, Catalogna Stretta
+  - Shallots, Dutch Red Spring (green)
 
 ## Still Need to Do
 
-- DGP
-- DGF
-- BHOF (Copmare to the two from Commit d77fd9c)
 - BHF
